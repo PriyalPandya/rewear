@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     'circular fashion atelier',
   ],
   authors: [{ name: 'ReWear Atelier Team' }],
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'https://rewear-args.vercel.app'),
   openGraph: {
     title: 'ReWear — Give Your Clothes a Second Life',
     description:

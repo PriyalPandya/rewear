@@ -2,6 +2,9 @@
 
 > An editorial, full-stack digital clothing upcycling, repair, and bespoke redesign platform built with Next.js (App Router), React 19, TypeScript, Tailwind CSS v4, and Supabase PostgreSQL.
 
+🌐 **Live Website:** [https://rewear-args.vercel.app/](https://rewear-args.vercel.app/)  
+📦 **GitHub Repository:** [https://github.com/PriyalPandya/rewear](https://github.com/PriyalPandya/rewear)
+
 ---
 
 ## 1. Project Overview
